@@ -34,4 +34,5 @@ Here is its code:
     }
    ```
    
+  Project published:https://molokon.github.io/quarter-checker/
    
